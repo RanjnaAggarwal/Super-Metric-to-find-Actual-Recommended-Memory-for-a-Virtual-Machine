@@ -1,1 +1,0 @@
-# Super-Metric-to-find-Actual-Recommended-Memory-for-a-Virtual-Machine
